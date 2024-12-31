@@ -1,0 +1,50 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "It's just space with moving effects and cool music\n\nArt: starkiteckt ( https://www.artstation.com/starkiteckt )\nMusic: Zack Hemsey - The Way (Instrum ental)\n\nUpdate: Can change Tint using Scheme Color + Tint Quantity\n\nThank you all! Didn't expect this could get this popular!\nI would love if you could look also at the other wallpapers I made and give me feedback on those, since I really enjoyed making them :D\nAnd remember, if you have any special request, just ask me ;)",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"fogtint" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "Fog Tint",
+				"type" : "color",
+				"value" : "1 0.23529411764705882 0"
+			},
+			"schemecolor" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"tintquantity" : 
+			{
+				"fraction" : true,
+				"index" : 1,
+				"max" : 1,
+				"min" : 0,
+				"order" : 101,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "Tint Quantity",
+				"type" : "slider",
+				"value" : 0
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Landscape" ],
+	"title" : "Space 2.0",
+	"type" : "Scene",
+	"version" : 5,
+	"visibility" : "public",
+	"workshopid" : "3092826458",
+	"workshopurl" : "steam://url/CommunityFilePage/3092826458"
+}
